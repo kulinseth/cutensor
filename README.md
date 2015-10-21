@@ -1,8 +1,6 @@
-examplepackage.torch
+Torch package : cutensor
 ====================
-
-A hello-world for torch packages
-
-You can install the package by opening a terminal, changing directory into the folder and typing:
+Adds the CUDA version for tensor along with more tensor decompositions.
+Install the package:
 
 luarocks make
